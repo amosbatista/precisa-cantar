@@ -1,6 +1,6 @@
 <template>
   <div id="page">
-    <Header />
+    <page-header />
     <Menu />
     <nuxt-content :document="page" />
     <Footer />
@@ -19,3 +19,6 @@ export default {
   }
 }
 </script>
+
+<style>
+</style>
