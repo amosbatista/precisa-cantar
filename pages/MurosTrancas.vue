@@ -8,9 +8,8 @@
 
 <script>
 export default {
-  name: 'IndexPage',
   async asyncData ({ $content }) {
-    const page = await $content('index').fetch()
+    const page = await $content('pages/muros-trancas').fetch()
 
     return {
       page
@@ -20,4 +19,5 @@ export default {
 </script>
 
 <style>
+
 </style>
