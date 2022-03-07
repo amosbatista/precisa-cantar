@@ -1,4 +1,4 @@
 Bem-vindo a página Precisa cantar
 
-- [Carnaval, que horror!](carnaval)
-- [Entre muros e trancas](muros-trancas)
+- [Carnaval, que horror!](CarnavalHorror)
+- [Entre muros e trancas](MurosTrancas)

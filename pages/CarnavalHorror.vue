@@ -7,15 +7,15 @@
 </template>
 
 <script>
-  export default {
-    async asyncData ({ $content }) {
-      const page = await $content('pages/muros-trancas').fetch()
+export default {
+  async asyncData ({ $content }) {
+    const page = await $content('pages/carnaval-que-horror').fetch()
 
-      return {
-        page
-      }
+    return {
+      page
     }
   }
+}
 </script>
 
 <style>
