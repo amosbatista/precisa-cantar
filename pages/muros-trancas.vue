@@ -7,17 +7,17 @@
 </template>
 
 <script>
-export default {
-  name: 'IndexPage',
-  async asyncData ({ $content }) {
-    const page = await $content('index').fetch()
+  export default {
+    async asyncData ({ $content }) {
+      const page = await $content('pages/muros-trancas').fetch()
 
-    return {
-      page
+      return {
+        page
+      }
     }
   }
-}
 </script>
 
 <style>
+
 </style>

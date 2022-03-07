@@ -5,8 +5,21 @@ body {
   font-size: 30px;
   font-family: 'Quicksand', sans-serif;
   margin: 0;
+  background-color: #000861;
 }
 
-span, p, h1, h2, h3 {
+span, p, h1, h2, h3, a, a:visited {
   color: #dbcc22;
+}
+
+#page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  min-height: 100vh;
+}
+
+.nuxt-content-container {
+  padding: 0 20px;
 }

@@ -1,9 +1,8 @@
 <template>
   <div id="page">
-    <Header />
-    <Menu />
+    <page-header />
     <nuxt-content :document="page" />
-    <Footer />
+    <page-footer />
   </div>
 </template>
 

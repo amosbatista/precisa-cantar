@@ -1,7 +1,9 @@
 <template>
   <header>
     <span class="header-title">
-      Precisa cantar?
+      <a href="\">
+        Precisa cantar?
+      </a>
     </span>
   </header>
 </template>
@@ -18,10 +20,14 @@ export default {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background-color: #000861;
+    background-color: #190749;
   }
   .header-title {
     margin-left: 30px;
-    font-size: 100%;
+    font-size: 140%;
+    font-weight: 700;
+  }
+  header a {
+    text-decoration: none;
   }
 </style>
