@@ -1,7 +1,9 @@
 <template>
   <div id="page">
     <page-header />
-    <nuxt-content :document="page" />
+    <div class="center">
+      <nuxt-content :document="page" />
+    </div>
     <page-footer />
   </div>
 </template>
@@ -20,4 +22,14 @@ export default {
 </script>
 
 <style>
+  .center {
+    padding: 40px 0 65px;
+  }
+  #page ul {
+    list-style: none;
+    padding-left: 10px;
+  }
+  #page li {
+    margin: 0px 0 30px;
+  }
 </style>
