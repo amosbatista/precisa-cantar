@@ -2,4 +2,3 @@
 
 - [Carnaval, que horror!](CarnavalHorror)
 - [Entre muros e trancas](MurosTrancas)
-- [Teste Amós](TesteAmos)

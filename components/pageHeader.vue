@@ -1,10 +1,8 @@
 <template>
   <header>
     <div class="bg">
-      <div class="bg-image">
-      </div>
-      <div class="bg-gradient">
-      </div>
+      <div class="bg-image" />
+      <div class="bg-gradient" />
       <span class="header-title">
         <a href="\">
           Precisa cantar?
@@ -45,12 +43,15 @@ export default {
     background-size: cover;
   }
   .header-title {
+    font-size: 165%;
     position: absolute;
     margin-left: 30px;
     margin-bottom: 15px;
     font-weight: 700;
   }
-  header a {
+  .header-title a,
+  .header-title a:visited {
     text-decoration: none;
+    color: #dbcc22;
   }
 </style>

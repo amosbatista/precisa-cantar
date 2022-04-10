@@ -1,5 +1,5 @@
 <template>
-  <div id="page">
+  <div class="home">
     <page-header />
     <div class="center">
       <nuxt-content :document="page" />
@@ -25,11 +25,14 @@ export default {
   .center {
     padding: 40px 0 65px;
   }
-  #page ul {
+  .home ul {
     list-style: none;
-    padding-left: 10px;
+    padding-left: 0px;
   }
-  #page li {
-    margin: 0px 0 30px;
+  .home li {
+    margin: 0px 0 20px;
+  }
+  .home h1 {
+    margin: 0 0 60px;
   }
 </style>
