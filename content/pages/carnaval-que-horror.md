@@ -1,6 +1,7 @@
-As gírias e modos de falar dos adolescentes foram mantidas.
+*As gírias e modos de falar dos adolescentes foram mantidas*.
 
-Não vou cantar não, senhora
+**Não vou cantar não, senhora**
+
 Em fevereiro de 2020, mês do carnaval, o Centro feminino provisório estava decorado para o carnaval, com muitas cores, fitas de crepom, máscaras de papel penduradas pelas salas e algumas letras de marchinhas escritas nas lousas. Mesmo privadas da liberdade, a festa não deixaria de acontecer para as internas.
 Conforme foi combinado com a unidade, Fabiana, educadora de Canto Coral e Timóteo, educador de percussão escolheram algumas músicas carnavalescas que poderiam compor o repertório daquele ano, sendo uma samba enredo chamado É Hoje, da União da Ilha do Governador, um frevo do Zé Ramalho intitulado Frevo Mulher e uma série de maracatus do bloco Estrela Brilhante do Recife.
 
