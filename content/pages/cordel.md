@@ -1,4 +1,5 @@
 **Rememorar**
+
 *Escrito por Chelmí Jep, roteiro de Débora Rangel*
 
 Aqui começa a rima
@@ -14,6 +15,7 @@ Sextilha é a matéria-prima
 Brotando sonho de menina e de menino
 
 
+
 Então, bora pra essa história
 
 Que Josefina protagoniza
@@ -25,6 +27,7 @@ A dor até que ameniza
 Cada dia é de glória
 
 Mas nem tudo se eterniza
+
 
 
 Ela trampava em centros masculinos
@@ -40,6 +43,7 @@ Pois sonhos grandes e pequeninos
 São tão lindos como canela de socó
 
 
+
 Com os manos nem tudo era disforme
 
 De cabelo e tamanho diferente
@@ -51,6 +55,7 @@ Dia triste e dia sorridente
 Tentava deixar tudo nos conforme
 
 Pra fortalecer a mente
+
 
 
 Com as meninas ficou à vontade
@@ -66,6 +71,7 @@ Uma potência de verdade
 Que Josefina adorava
 
 
+
 Baita turma criativa
 
 Cheia de esperança
@@ -77,6 +83,7 @@ Ceis têm que vê que bela andança
 Todas com voz ativa
 
 Pra ser guardada na lembrança
+
 
 
 Ela, nova na entidade
@@ -92,6 +99,7 @@ Com a turma de dança, sem vaidade
 Propôs um ensaio na moral
 
 
+
 No dia do ensaio, vejam o que aconteceu
 
 Cabelo cortado, trançado e unha pintada
@@ -103,6 +111,7 @@ Sem visão precipitada
 A novidade ali permaneceu
 
 Igual comida temperada sem pitada
+
 
 
 Mariza, a coordenadora acompanhou
@@ -118,6 +127,7 @@ Nenhuma flor desabrochou
 Deixando Josefina cheia de pensamento
 
 
+
 Tinha tristeza pairando no ar
 
 E Josefina tentando entender
@@ -129,6 +139,7 @@ Difícil compreender
 O mundo continuou a girar
 
 Pro tempo não se perder
+
 
 
 O que há de errado?
@@ -144,6 +155,7 @@ Num dia ensolarado
 O clima não esquentou
 
 
+
 No meio disso tudo
 
 A moçada da dança mandou ver
@@ -155,6 +167,7 @@ O corpo passou a mexer
 Em meio a olhares com escudo
 
 Ali tinham que viver
+
 
 
 Josefina perdeu a calma
@@ -170,6 +183,7 @@ Cena sem palma
 E a coordenadora lá sem pestanejar
 
 
+
 Duas horas de ensaio
 
 Um arrasto tremendo
@@ -181,6 +195,7 @@ E o pensamento retorcendo
 Frustração que não cabia em balaio
 
 E Josefina quase morrendo
+
 
 
 Algumas horas adiante
@@ -196,6 +211,7 @@ Nada poderia ser mais entediante
 Não vendo suas mães ou os filhos que gerou
 
 
+
 Neste dia houve um grande aprendizado
 
 Josefina se tornou mais sensível
@@ -207,6 +223,7 @@ Pra mudar de nível
 Pois nem tudo que é enraizado
 
 É sempre incrível.
+
 
 
 
