@@ -1,6 +1,7 @@
 # Bem-vindo a página Precisa cantar
 
-- [Carnaval, que horror!](CarnavalHorror)
-- [Entre muros e trancas](MurosTrancas)
+- [Canto Coral em situações não tradicionais](CarnavalHorror)
+- [Repertório e identidade](MurosTrancas)
 - [Medo de Exposição](Exposicao)
 - [Nome](Nome)
+- [Questões extra musicais](Cordel)
