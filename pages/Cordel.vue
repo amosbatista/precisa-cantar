@@ -1,7 +1,11 @@
 <template>
   <div id="page">
     <page-header />
-    <nuxt-content :document="page" />
+    <div class="container">
+      <div class="container-center page-content">
+        <nuxt-content :document="page" />
+      </div>
+    </div>
     <page-footer />
   </div>
 </template>

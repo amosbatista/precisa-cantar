@@ -3,11 +3,15 @@
     <div class="bg">
       <div class="bg-image" />
       <div class="bg-gradient" />
-      <span class="header-title">
-        <a href="\">
-          Precisa cantar?
-        </a>
-      </span>
+      <div class="bg-title">
+        <div class="container">
+          <div class="container-center">
+            <a class="header-title" href="\">
+              Precisa cantar?
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
   </header>
 </template>
@@ -42,13 +46,17 @@ export default {
     background-position: center;
     background-size: cover;
   }
+  .bg-title {
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+  }
   .header-title {
     font-size: 165%;
-    position: absolute;
-    margin-left: 30px;
     margin-bottom: 15px;
     font-weight: 700;
   }
+  .header-title,
   .header-title a,
   .header-title a:visited {
     text-decoration: none;
