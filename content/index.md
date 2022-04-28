@@ -1,6 +1,12 @@
-# Bem-vindo a página Precisa cantar
+# Bem-vindo a página **Precisa Cantar, senhora?**
 
-- [Canto Coral em situações não tradicionais](MurosTrancas)
-- [Repertório e identidade](CarnavalHorror)
-- [Medo de Exposição](Exposicao)
-- [Questões extra musicais](CordelRememorar)
+- [Ambiente não-tradicional - Muros e Trancas](MurosTrancas)
+- [Repertório - Não vou cantar não, senhora!](CarnavalHorror)
+- [Vozes transgêneras - podcast](VozesTransgeneras)
+- [Disciplina - O Porquinho (história em quadrinhos)](PorquinhoHq)
+- [Projeto musical - podcast](#)
+- [Questões extra-musicais - Cordel (Rememorar)](CordelRememorar)
+- [Apresentação - radionovela (não está pronta)](#)
+- [Exposição - Composição](#)
+- [Institucional - Liberdade vai cantar (história em quadrinhos)](LiberdadeHq)
+- [Exposição - Composição](Exposicao)
