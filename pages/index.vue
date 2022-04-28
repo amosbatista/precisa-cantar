@@ -1,8 +1,10 @@
 <template>
   <div class="home">
     <page-header />
-    <div class="center">
-      <nuxt-content :document="page" />
+    <div class="container">
+      <div class="container-center home-content">
+        <nuxt-content :document="page" />
+      </div>
     </div>
     <page-footer />
   </div>
@@ -22,9 +24,6 @@ export default {
 </script>
 
 <style>
-  .center {
-    padding: 40px 0 65px;
-  }
   .home ul {
     list-style: none;
     padding-left: 0px;
@@ -34,5 +33,8 @@ export default {
   }
   .home h1 {
     margin: 0 0 60px;
+  }
+  .home-content {
+    margin: 30px 0;
   }
 </style>
