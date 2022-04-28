@@ -2,7 +2,7 @@
   <div id="page">
     <page-header />
     <div class="container">
-      <div class="container-center page-content">
+      <div class="container-center page-content poetry">
         <nuxt-content :document="page" />
       </div>
     </div>
