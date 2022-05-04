@@ -1,6 +1,7 @@
 <template>
   <header>
-    <div class="bg">
+    <img class="banner" src="/header/precisa-cantar-banner.jpg">
+    <!--<div class="bg">
       <div class="bg-image" />
       <div class="bg-gradient" />
       <div class="bg-title">
@@ -12,7 +13,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div>-->
   </header>
 </template>
 
@@ -23,6 +24,34 @@ export default {
 </script>
 
 <style>
+  header {
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    justify-content: center;
+  }
+  .banner {
+    width: 55%;
+  }
+  @media (max-width: 700px) {
+    header {
+      height: 200px;
+    }
+    .banner {
+      width: 80%;
+    }
+  }
+  @media (max-width: 300px) {
+    header {
+      height: 150px;
+    }
+    .banner {
+      width: 100%;
+    }
+  }
   .bg {
     height: 200px;
     width: 100%;
