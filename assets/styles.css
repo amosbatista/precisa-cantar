@@ -39,7 +39,7 @@ h1 {
   margin: 30px 0;
 }
 .page-content p {
-  text-indent: 30px;
+  /*text-indent: 30px;*/
 }
 .page-content.poetry p {
   text-indent: 0;
