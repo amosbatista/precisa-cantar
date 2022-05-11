@@ -1,25 +1,30 @@
 <template>
-  <header>
-    <img class="banner" src="/header/precisa-cantar-banner.jpg">
-    <!--<div class="bg">
-      <div class="bg-image" />
-      <div class="bg-gradient" />
-      <div class="bg-title">
-        <div class="container">
-          <div class="container-center">
-            <a class="header-title" href="\">
-              <i>"Precisa cantar, senhora?"</i>
-            </a>
+  <div>
+    <header>
+      <img class="banner" src="/header/precisa-cantar-banner.jpg">
+      <!--<div class="bg">
+        <div class="bg-image" />
+        <div class="bg-gradient" />
+        <div class="bg-title">
+          <div class="container">
+            <div class="container-center">
+              <a class="header-title" href="\">
+                <i>"Precisa cantar, senhora?"</i>
+              </a>
+            </div>
           </div>
         </div>
-      </div>
-    </div>-->
-  </header>
+      </div>-->
+    </header>
+    <page-menu :nav-links="navLinks" />
+  </div>
 </template>
 
 <script>
-
+import pageMenu from '../components/pageMenu.vue'
 export default {
+  components: { pageMenu },
+  props: ['navLinks']
 }
 </script>
 

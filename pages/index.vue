@@ -1,9 +1,10 @@
 <template>
   <div class="home">
-    <page-header />
+    <page-header :nav-links="links"/>
     <div class="container">
       <div class="container-center home-content">
         <nuxt-content :document="page" />
+        <nuxt-content :document="links" />
       </div>
     </div>
     <page-footer />
@@ -15,9 +16,15 @@ export default {
   name: 'IndexPage',
   async asyncData ({ $content }) {
     const page = await $content('index').fetch()
+    const links = await $content('links').fetch()
 
     return {
-      page
+      page, links
+    }
+  },
+  data () {
+    return {
+      page: '', links: ''
     }
   }
 }

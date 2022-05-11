@@ -1,12 +1,1 @@
-# Bem-vindo a página **Precisa Cantar, senhora?**
-
-- [Ambiente não-tradicional - Muros e Trancas](MurosTrancas)
-- [Repertório - Não vou cantar não, senhora!](CarnavalHorror)
-- [Vozes transgêneras - podcast](VozesTransgeneras)
-- [Disciplina - O Porquinho (história em quadrinhos)](PorquinhoHq)
-- [Projeto musical - podcast](#)
-- [Questões extra-musicais - Cordel (Rememorar)](CordelRememorar)
-- [Apresentação - radionovela (não está pronta)](#)
-- [Exposição - Composição](#)
-- [Institucional - Liberdade vai cantar (história em quadrinhos)](LiberdadeHq)
-- [Exposição - Composição](Exposicao)
+O portal do regente e educador musical de coros juvenis. Aqui você encontra estratégias de trabalho com com coros de adolescentes baseados em estudos de caso. Acesse as abas e navegue pelas histórias.
