@@ -103,5 +103,6 @@ export default {
     display: flex;
     padding: 10px 3px;
     z-index: 2;
+    width: 150px;
   }
 </style>

@@ -3,7 +3,7 @@
     <div class="container-center">
       <ul class="links">
         <li>
-          <a href="/sobre">Sobre</a>
+          <a href="/">Voltar para a home</a>
         </li>
       </ul>
       <p class="rights">
@@ -23,6 +23,7 @@ export default {
   footer {
     background-color: #301C94;
     color: #E0CD41;
+    padding: 15px 0;
   }
   footer ul li {
     font-size: 90%;
