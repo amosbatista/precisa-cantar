@@ -101,8 +101,10 @@ export default {
     top: 40px;
     left: 30px;
     display: flex;
-    padding: 10px 3px;
     z-index: 2;
     width: 150px;
+  }
+  .sub-menu a {
+    padding: 10px 10px;
   }
 </style>

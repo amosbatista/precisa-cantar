@@ -28,7 +28,7 @@ export default [
     url: '#',
     sub: [
       {
-        text: 'Posdcast',
+        text: 'Podcast',
         url: '/VozesTransgeneras'
       }
     ]
