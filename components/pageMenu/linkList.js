@@ -1,86 +1,90 @@
 export default [
   {
-    text: "Ambiente não-tradicional",
-    url: "#",
+    text: 'Home',
+    url: '/'
+  },
+  {
+    text: 'Ambiente não-tradicional',
+    url: '#',
     sub: [
       {
-        text: "Muros e Trancas",
-        url: "/MurosTrancas"
-      },
+        text: 'Muros e Trancas',
+        url: '/MurosTrancas'
+      }
     ]
   },
   {
-    text: "Repertório",
-    url: "#",
+    text: 'Repertório',
+    url: '#',
     sub: [
       {
-        text: "Não vou cantar não, senhora!",
-        url: "/CarnavalHorror"
-      },
+        text: 'Não vou cantar não, senhora!',
+        url: '/CarnavalHorror'
+      }
     ]
   },
   {
-    text: "Vozes transgêneras",
-    url: "#",
+    text: 'Vozes transgêneras',
+    url: '#',
     sub: [
       {
-        text: "Posdcast",
-        url: "/VozesTransgeneras"
-      },
+        text: 'Posdcast',
+        url: '/VozesTransgeneras'
+      }
     ]
   },
   {
-    text: "Disciplina",
-    url: "#",
+    text: 'Disciplina',
+    url: '#',
     sub: [
       {
-        text: "O Porquinho (história em quadrinhos)",
-        url: "/PorquinhoHq"
-      },
+        text: 'O Porquinho (história em quadrinhos)',
+        url: '/PorquinhoHq'
+      }
     ]
   },
   {
-    text: "Questões extra-musicais",
-    url: "#",
+    text: 'Questões extra-musicais',
+    url: '#',
     sub: [
       {
-        text: "Cordel (Rememorar)",
-        url: "/CordelRememorar"
-      },
+        text: 'Cordel (Rememorar)',
+        url: '/CordelRememorar'
+      }
     ]
   },
   {
-    text: "Apresentação",
-    url: "#",
+    text: 'Apresentação',
+    url: '#',
     sub: [
       {
-        text: "radionovela (não está pronta)",
-        url: "#"
-      },
+        text: 'Radionovela (não está pronta)',
+        url: '#'
+      }
     ]
   },
   {
-    text: "Institucional",
-    url: "#",
+    text: 'Institucional',
+    url: '#',
     sub: [
       {
-        text: "Liberdade vai cantar (história em quadrinhos)",
-        url: "/LiberdadeHq"
-      },
+        text: 'Liberdade vai cantar (história em quadrinhos)',
+        url: '/LiberdadeHq'
+      }
     ]
   },
   {
-    text: "Exposição",
-    url: "#",
+    text: 'Exposição',
+    url: '#',
     sub: [
       {
-        text: "Composição",
-        url: "/Exposicao"
-      },
+        text: 'Composição',
+        url: '/Exposicao'
+      }
     ]
   },
-    {
-    text: "Sobre",
-    url: "/sobre"
-  },
-];
+  {
+    text: 'Sobre',
+    url: '/sobre'
+  }
+]
