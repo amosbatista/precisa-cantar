@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import pageMenu from '../components/pageMenu.vue'
+import pageMenu from './pageMenu/index.vue'
 export default {
   components: { pageMenu },
   props: ['navLinks']
