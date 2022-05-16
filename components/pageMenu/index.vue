@@ -101,6 +101,7 @@ export default {
     top: 40px;
     left: 30px;
     display: flex;
+    flex-direction: column;
     z-index: 2;
     width: 150px;
   }

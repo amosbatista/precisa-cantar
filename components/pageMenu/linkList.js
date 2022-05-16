@@ -85,6 +85,16 @@ export default [
   },
   {
     text: 'Sobre',
-    url: '/sobre'
+    url: '#',
+    sub: [
+      {
+        text: 'O projeto',
+        url: '/Projeto'
+      },
+      {
+        text: 'A autora',
+        url: '/Autora'
+      }
+    ]
   }
 ]
