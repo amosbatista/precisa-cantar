@@ -1,6 +1,6 @@
 <template>
   <div id="page">
-    <page-header />
+    <page-header :nav-links="links"/>
     <div class="container">
       <div class="container-center page-content">
         <nuxt-content :document="page" />
@@ -13,10 +13,11 @@
 <script>
 export default {
   async asyncData ({ $content }) {
-    const page = await $content('pages/cordel').fetch()
+    const page = await $content('pages/sobre').fetch()
+    const links = await $content('links').fetch()
 
     return {
-      page
+      page, links
     }
   }
 }

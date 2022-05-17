@@ -13,7 +13,7 @@
 <script>
 export default {
   async asyncData ({ $content }) {
-    const page = await $content('pages/exposicao').fetch()
+    const page = await $content('pages/liberdade').fetch()
     const links = await $content('links').fetch()
 
     return {

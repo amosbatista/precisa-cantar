@@ -1,6 +1,6 @@
 <template>
   <div id="page">
-    <page-header :nav-links="links"/>
+    <page-header />
     <div class="container">
       <div class="container-center page-content">
         <nuxt-content :document="page" />
@@ -13,11 +13,10 @@
 <script>
 export default {
   async asyncData ({ $content }) {
-    const page = await $content('pages/exposicao').fetch()
-    const links = await $content('links').fetch()
+    const page = await $content('pages/autora').fetch()
 
     return {
-      page, links
+      page
     }
   }
 }

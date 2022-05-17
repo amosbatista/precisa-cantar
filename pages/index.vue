@@ -19,6 +19,11 @@ export default {
     return {
       page
     }
+  },
+  data () {
+    return {
+      page: ''
+    }
   }
 }
 </script>
@@ -36,5 +41,6 @@ export default {
   }
   .home-content {
     margin: 30px 0;
+    min-height: 200px;
   }
 </style>

@@ -2,6 +2,7 @@
 
 *Escrito por Chelmí Jep, roteiro de Débora Rangel*
 
+<br /><br /><br />
 Aqui começa a rima
 
 Que até parece hino
@@ -13,9 +14,7 @@ Com verso genuíno
 Sextilha é a matéria-prima
 
 Brotando sonho de menina e de menino
-
-
-
+<br /><br /><br />
 Então, bora pra essa história
 
 Que Josefina protagoniza
@@ -27,9 +26,7 @@ A dor até que ameniza
 Cada dia é de glória
 
 Mas nem tudo se eterniza
-
-
-
+<br /><br /><br />
 Ela trampava em centros masculinos
 
 Imaginem só
@@ -41,9 +38,7 @@ E não achou um ó
 Pois sonhos grandes e pequeninos
 
 São tão lindos como canela de socó
-
-
-
+<br /><br /><br />
 Com os manos nem tudo era disforme
 
 De cabelo e tamanho diferente
@@ -55,9 +50,7 @@ Dia triste e dia sorridente
 Tentava deixar tudo nos conforme
 
 Pra fortalecer a mente
-
-
-
+<br /><br /><br />
 Com as meninas ficou à vontade
 
 Brincava, abraçava e beijava
@@ -69,9 +62,7 @@ Nunca esbravejava
 Uma potência de verdade
 
 Que Josefina adorava
-
-
-
+<br /><br /><br />
 Baita turma criativa
 
 Cheia de esperança
@@ -83,9 +74,7 @@ Ceis têm que vê que bela andança
 Todas com voz ativa
 
 Pra ser guardada na lembrança
-
-
-
+<br /><br /><br />
 Ela, nova na entidade
 
 Quis divulgar o Canto e Coral
@@ -97,9 +86,7 @@ Somando em alto astral
 Com a turma de dança, sem vaidade
 
 Propôs um ensaio na moral
-
-
-
+<br /><br /><br />
 No dia do ensaio, vejam o que aconteceu
 
 Cabelo cortado, trançado e unha pintada
@@ -111,9 +98,7 @@ Sem visão precipitada
 A novidade ali permaneceu
 
 Igual comida temperada sem pitada
-
-
-
+<br /><br /><br />
 Mariza, a coordenadora acompanhou
 
 Fizeram aquecimento
@@ -125,9 +110,7 @@ Mesmo depois do alongamento
 Nenhuma flor desabrochou
 
 Deixando Josefina cheia de pensamento
-
-
-
+<br /><br /><br />
 Tinha tristeza pairando no ar
 
 E Josefina tentando entender
@@ -139,9 +122,7 @@ Difícil compreender
 O mundo continuou a girar
 
 Pro tempo não se perder
-
-
-
+<br /><br /><br />
 O que há de errado?
 
 Josefina perguntou
@@ -153,9 +134,7 @@ A roda não firmou
 Num dia ensolarado
 
 O clima não esquentou
-
-
-
+<br /><br /><br />
 No meio disso tudo
 
 A moçada da dança mandou ver
@@ -167,9 +146,7 @@ O corpo passou a mexer
 Em meio a olhares com escudo
 
 Ali tinham que viver
-
-
-
+<br /><br /><br />
 Josefina perdeu a calma
 
 Aí sim passou a bravejar
@@ -181,9 +158,7 @@ E com seus olhos prestes a marejar
 Cena sem palma
 
 E a coordenadora lá sem pestanejar
-
-
-
+<br /><br /><br />
 Duas horas de ensaio
 
 Um arrasto tremendo
@@ -195,9 +170,7 @@ E o pensamento retorcendo
 Frustração que não cabia em balaio
 
 E Josefina quase morrendo
-
-
-
+<br /><br /><br />
 Algumas horas adiante
 
 Josefina se tocou
@@ -209,9 +182,7 @@ E no dia anterior ninguém as visitou
 Nada poderia ser mais entediante
 
 Não vendo suas mães ou os filhos que gerou
-
-
-
+<br /><br /><br />
 Neste dia houve um grande aprendizado
 
 Josefina se tornou mais sensível
@@ -223,10 +194,7 @@ Pra mudar de nível
 Pois nem tudo que é enraizado
 
 É sempre incrível.
-
-
-
-
+<br /><br /><br />
 **Questões:**
 
 1.  A regente tinha um modo de trabalho com coros masculinos e se deparou com outra realidade no coral feminino. O contato físico e o envolvimento emocional fazem diferença no ensaio do coro?

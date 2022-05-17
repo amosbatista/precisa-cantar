@@ -1,9 +1,9 @@
 <template>
   <footer class="container">
     <div class="container-center">
-      <ul>
+      <ul class="links">
         <li>
-          Sobre
+          <a href="/">Voltar para a home</a>
         </li>
       </ul>
       <p class="rights">
@@ -23,6 +23,7 @@ export default {
   footer {
     background-color: #301C94;
     color: #E0CD41;
+    padding: 15px 0;
   }
   footer ul li {
     font-size: 90%;
@@ -37,8 +38,11 @@ export default {
     color: #E0CD41;
     font-size: 50%;
   }
-  footer .rights a,
-  footer .rights a:visited {
+  footer a,
+  footer a:visited {
     color: #E0CD41;
+  }
+  footer .links a{
+    text-decoration: none;
   }
 </style>
