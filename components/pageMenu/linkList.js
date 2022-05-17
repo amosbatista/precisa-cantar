@@ -18,7 +18,7 @@ export default [
     url: '#',
     sub: [
       {
-        text: 'Não vou cantar não, senhora!',
+        text: 'Não vou cantar não, senhora',
         url: '/CarnavalHorror'
       }
     ]
@@ -28,7 +28,7 @@ export default [
     url: '#',
     sub: [
       {
-        text: 'Podcast',
+        text: 'Precisa fazer essa vozinha?',
         url: '/VozesTransgeneras'
       }
     ]
@@ -38,7 +38,7 @@ export default [
     url: '#',
     sub: [
       {
-        text: 'O Porquinho (história em quadrinhos)',
+        text: 'O Porquinho',
         url: '/PorquinhoHq'
       }
     ]
@@ -48,7 +48,7 @@ export default [
     url: '#',
     sub: [
       {
-        text: 'Cordel (Rememorar)',
+        text: 'Rememorar',
         url: '/CordelRememorar'
       }
     ]
@@ -58,7 +58,7 @@ export default [
     url: '#',
     sub: [
       {
-        text: 'Radionovela (não está pronta)',
+        text: 'Radionovela',
         url: '#'
       }
     ]
@@ -68,7 +68,7 @@ export default [
     url: '#',
     sub: [
       {
-        text: 'Liberdade vai cantar (história em quadrinhos)',
+        text: 'Liberdade vai cantar',
         url: '/LiberdadeHq'
       }
     ]
