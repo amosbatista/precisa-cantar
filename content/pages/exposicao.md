@@ -91,3 +91,11 @@ Finalmente Rita, de olhos fechados, apresentou a música para o grupo. O coral a
 -Fechou então. Não esquece!
 
 Enquanto Angela se despedia e guardava os materiais, ouviu alguns cantando o refrão: não deixe de sonhar, não deixe de acreditar, não deixe de sonhar e você vai conquistar.
+
+**Questões**
+
+1.  A adolescência é uma fase em que a pessoa começa a saber mais sobre si mesma. É quando diversas inseguranças e questionamentos surgem. Angela percebeu isso e lidou com a situação. Será que Rita apresentaria sua própria composição sem o apoio da professora?
+    
+2.  Como o ensaio de um coro pode ajudar cantores a lidar com questões próprias dessa faixa etária? E como pode atrapalhar?
+    
+3.  A composição não foi apresentada de um modo tradicional, ou seja, escrita numa partitura. Em que situações o uso de notação musical ajuda o processo de ensaio? Quando a partitura não é necessária?

@@ -155,3 +155,13 @@ Fabiana sentiu a necessidade de perguntar:
 Por se identificarem com a levada da música, elas entenderam rapidamente as canções e cantavam a plenos pulmões e bem alegres. A questão da rainha, do vassalo e do escravo foram resolvidas entre elas mesmas, porque Antônia se mostrou contrariada, mas se rendeu aos maracatus. A educadora percebeu, mas mais uma vez não comentou nada com Antônia.
 
 Fabiana então precisou fazer a revisão de todo o repertório alguns dias antes da apresentação e percebeu que Antônia e toda a turma, mesmo com dificuldades técnicas, cantaram todo o repertório e sem reclamações sobre as letras.
+
+**Questões**
+
+1.  Fabiana deveria ter persistido com a música?
+    
+2.  Antônia está defendendo a sua fé e identidade ou apenas testando até onde a educadora pode ceder?
+    
+3.  No fim do processo, Antônia participou dos ensaios, Fabiana deveria ter comemorado isso?
+    
+4.  O que vale mais nesta situação: o refino técnico ou a participação da maioria do grupo?
