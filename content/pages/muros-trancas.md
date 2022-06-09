@@ -1,5 +1,7 @@
 **Entre muros e trancas**
 
+>Um conto sobre entrevista de emprego e o Canto Coral num ambiente com muitas restrições.
+
 Renata era professora de flauta transversal em escolas de música privadas e públicas fora da própria cidade, com musicalização para crianças pela prefeitura e também regente de corais. Com tantos pequenos trabalhos em diferentes lugares, o que era muito cansativo, pois o deslocamento e burocracias eram bem desgastantes, queria se dedicar exclusivamente ao Canto Coral e com garantia de direitos trabalhistas, o que era impossível na realidade em que se encontrava.
 
 No município de Renata havia uma empresa já consolidada em iniciativas socioculturais em música para crianças e adolescentes em diversos contextos sociais, inclusive em entidades para adolescentes em cumprimento de medidas socioeducativas, local que gostaria de trabalhar como regente. A empresa era famosa por promover grandes apresentações com estes jovens, o que motivava ainda mais a professora querer fazer parte deste trabalho.
@@ -126,14 +128,11 @@ A pianista chamou os adolescentes e começou a música Caridade. Só alguns cant
 
 Renata e Silvana guardaram todo o material, conferiram cada item com o agente socioeducativo e se despediram dos alunos. A nova professora teria uma grande jornada pela frente.
 
-**Questões**
-1.  O Canto Coral é um trabalho a longo prazo?
-    
-2.  O aquecimento se fez importante nesta aula?
-    
-3.  Porque os alunos não fizeram o exercício?
-    
-4.  Você faria o trabalho sem partitura? Ela é realmente necessária?
-    
-5.  É certo Renata levar um repertório sem antes conhecer o grupo?
+>Neste conto, vimos a educadora musical em busca de um trabalho com mais garantias trabalhistas e na área que gostava de atuar: o canto coral. Ela percebeu que seguir um roteiro pré estabelecido para um ensaio não a ajudou quando estava à frente do coro, então há algumas reflexões:
+>
+>**Questões:**
+>1. O Canto Coral é um trabalho a longo prazo? 
+>2. O aquecimento se fez importante nesta aula?  
+>3. Porque os alunos não fizeram o exercício?
+>4. É certo Renata levar um repertório sem antes conhecer o grupo?
 

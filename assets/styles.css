@@ -47,3 +47,11 @@ h1 {
 .page-content img {
   width: 100%;
 }
+blockquote{
+  background-color: #96e19a;
+  padding: 10px 15px;
+  margin: 10px 0 20px;
+}
+blockquote p {
+  font-style: italic;
+}

@@ -1,5 +1,7 @@
 **Composições**
 
+>O conto narra duas experiências: de composição musical e exposição.
+
 Angela é regente do coral do Ensino Médio, com adolescentes entre 15 e 18 anos que se inscreveram para a atividade oferecida pela escola, no contraturno. O grupo é bastante participativo, gosta de sugerir repertório, aquecimentos vocais e é unido, mesmo sendo os cantores de turmas diferentes.
 
 Certo dia, parte do coral estava muito agitada e falando muito. Angela quis saber:
@@ -91,3 +93,10 @@ Finalmente Rita, de olhos fechados, apresentou a música para o grupo. O coral a
 -Fechou então. Não esquece!
 
 Enquanto Angela se despedia e guardava os materiais, ouviu alguns cantando o refrão: não deixe de sonhar, não deixe de acreditar, não deixe de sonhar e você vai conquistar.
+
+>A adolescência é uma fase em que a pessoa começa a saber mais sobre si mesma. É quando diversas inseguranças e questionamentos surgem. Angela percebeu isso e lidou com a situação. Então temos as seguintes reflexões:
+>
+>**Questões:**
+>1. Será que Rita apresentaria sua própria composição sem o apoio da professora? 
+>2. Como o ensaio de um coro pode ajudar cantores a lidar com questões próprias dessa faixa etária? E como pode atrapalhar?  
+>3. A composição não foi apresentada de um modo tradicional, ou seja, escrita numa partitura. Em que situações o uso de notação musical ajuda o processo de ensaio? Quando a partitura não é necessária?
