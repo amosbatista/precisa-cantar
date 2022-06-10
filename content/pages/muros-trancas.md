@@ -130,7 +130,6 @@ Renata e Silvana guardaram todo o material, conferiram cada item com o agente so
 
 >Neste conto, vimos a educadora musical em busca de um trabalho com mais garantias trabalhistas e na área que gostava de atuar: o canto coral. Ela percebeu que seguir um roteiro pré estabelecido para um ensaio não a ajudou quando estava à frente do coro, então há algumas reflexões:
 >
->**Questões:**
 >1. O Canto Coral é um trabalho a longo prazo? 
 >2. O aquecimento se fez importante nesta aula?  
 >3. Porque os alunos não fizeram o exercício?

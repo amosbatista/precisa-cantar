@@ -7,6 +7,5 @@
 
 >O regente poderia ter imposto silêncio e até mesmo chamar a atenção dos alunos diante da interrupção, porém abriu espaço para o grupo conversar e percebeu outras questões que envolviam aquele ensaio, como as descritas acima.
 >
->**Questões:**
 >1. Jorge deveria ter repreendido a discussão logo quando ela surgiu?
 >2. É possível ignorar as questões institucionais nos ambientes de trabalho? Como equilibrar as regras e o trato com os alunos?

@@ -160,7 +160,6 @@ Fabiana então precisou fazer a revisão de todo o repertório alguns dias antes
 
 >A regente insistiu com um tipo de repertório e encontrou barreiras culturais, religiosas e de identidade, além de perceber a abertura de uma das alunas para o novo e participação no grupo, então é possível fazer algumas reflexões:
 >
->**Questões:**
 >1. Fabiana deveria ter persistido com a música?
 >2. Antônia está defendendo a sua fé e identidade ou apenas testando até onde a educadora pode ceder?
 >3. No fim do processo, Antônia participou dos ensaios, Fabiana deveria ter comemorado isso?
