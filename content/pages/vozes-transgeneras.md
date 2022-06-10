@@ -1,5 +1,4 @@
 # Vozes transgêneras
-Podcast sobre questões de gênero no Canto Coral Juvenil, parte do site **Precisa Cantar, Senhora?**
 
 >Podcast sobre vozes transgêneras no Canto Coral
 
