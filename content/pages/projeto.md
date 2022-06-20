@@ -1,3 +1,3 @@
 # Sobre o projeto
 
-Precisa Cantar, Senhora? é resultado do produto final de Débora Rangel pelo seu mestrado no PROEMUS (Mestrado Profissional em Ensino das Práticas Musicais) na UNIRIO, sob a orientação do Professor Dr. Eduardo Lakschevitz.
+Precisa Cantar, Senhora? foi desenvolvido durante o Mestrado Profissional em Ensino das Práticas Musicais (PROEMUS), da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), sob a orientação do professor Dr. Eduardo Lakschevitz.
