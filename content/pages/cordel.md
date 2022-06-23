@@ -1,5 +1,9 @@
 **Rememorar**
 
+>A consideração ao contexto do ambiente é o tema deste cordel.
+
+<br /><br /><br />
+
 *Escrito por Chelmí Jep, roteiro de Débora Rangel*
 
 <br /><br /><br />
@@ -202,3 +206,9 @@ Pois nem tudo que é enraizado
 2.  Como você agiria diante da falta de participação das alunas? Repreensão? Outro repertório? Cancelamento do ensaio?
     
 3.  O grupo se mostrava muito ativo e Josefina queria mostrar isso para a coordenadora, o que acabou não acontecendo. Qual o peso de ter o trabalho observado?
+
+>O cordel trouxe a diferença da vivência da regente com coros masculinos e viu outra realidade no coral feminino. Ela também se deparou com a responsabilidade de mostrar o bom trabalho a uma supervisão, envolvendo questões além da música, mas empregatícia. A história levanta algumas reflexões:
+>
+>1. A regente tinha um modo de trabalho com coros masculinos e se deparou com outra realidade no coral feminino. O contato físico e o envolvimento emocional fazem diferença no ensaio do coro?
+>2. Como você agiria diante da falta de participação das alunas? Repreensão? Outro repertório? Cancelamento do ensaio?
+>3. O grupo se mostrava muito ativo e Josefina queria mostrar isso para a coordenadora, o que acabou não acontecendo. Qual o peso de ter o trabalho observado?

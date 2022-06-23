@@ -3,6 +3,9 @@
     <page-header />
     <div class="container">
       <div class="container-center page-content">
+        <div class="logo-sobre">
+          <img src="logo-unirio.png">
+        </div>
         <nuxt-content :document="page" />
       </div>
     </div>
@@ -23,5 +26,13 @@ export default {
 </script>
 
 <style>
-
+  .logo-sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 0 25px;
+  }
+  .logo-sobre img {
+    max-width: 500px;
+  }
 </style>

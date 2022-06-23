@@ -2,6 +2,8 @@
 
 **Não vou cantar não, senhora**
 
+>Um conto sobre escolha de repertório e identidade.
+
 Em fevereiro de 2020, mês do carnaval, o Centro feminino provisório estava decorado para o carnaval, com muitas cores, fitas de crepom, máscaras de papel penduradas pelas salas e algumas letras de marchinhas escritas nas lousas. Mesmo privadas da liberdade, a festa não deixaria de acontecer para as internas.
 Conforme foi combinado com a unidade, Fabiana, educadora de Canto Coral e Timóteo, educador de percussão escolheram algumas músicas carnavalescas que poderiam compor o repertório daquele ano, sendo uma samba enredo chamado É Hoje, da União da Ilha do Governador, um frevo do Zé Ramalho intitulado Frevo Mulher e uma série de maracatus do bloco Estrela Brilhante do Recife.
 
@@ -156,12 +158,9 @@ Por se identificarem com a levada da música, elas entenderam rapidamente as can
 
 Fabiana então precisou fazer a revisão de todo o repertório alguns dias antes da apresentação e percebeu que Antônia e toda a turma, mesmo com dificuldades técnicas, cantaram todo o repertório e sem reclamações sobre as letras.
 
-**Questões**
-
-1.  Fabiana deveria ter persistido com a música?
-    
-2.  Antônia está defendendo a sua fé e identidade ou apenas testando até onde a educadora pode ceder?
-    
-3.  No fim do processo, Antônia participou dos ensaios, Fabiana deveria ter comemorado isso?
-    
-4.  O que vale mais nesta situação: o refino técnico ou a participação da maioria do grupo?
+>A regente insistiu com um tipo de repertório e encontrou barreiras culturais, religiosas e de identidade, além de perceber a abertura de uma das alunas para o novo e participação no grupo, então é possível fazer algumas reflexões:
+>
+>1. Fabiana deveria ter persistido com a música?
+>2. Antônia está defendendo a sua fé e identidade ou apenas testando até onde a educadora pode ceder?
+>3. No fim do processo, Antônia participou dos ensaios, Fabiana deveria ter comemorado isso?
+>4. O que vale mais nesta situação: o refino técnico ou a participação da maioria do grupo?
