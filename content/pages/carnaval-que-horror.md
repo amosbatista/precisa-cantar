@@ -1,5 +1,3 @@
-*As gírias e modos de falar dos adolescentes foram mantidas*.
-
 **Não vou cantar não, senhora**
 
 >Um conto sobre escolha de repertório e identidade.
